@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/feitjhin/fei-app/static/css/main.073c9b0a.css",
+    "main.js": "/feitjhin/fei-app/static/js/main.ce94ef84.js",
+    "static/js/787.204ea73d.chunk.js": "/feitjhin/fei-app/static/js/787.204ea73d.chunk.js",
+    "static/media/logo.svg": "/feitjhin/fei-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/feitjhin/fei-app/index.html",
+    "main.073c9b0a.css.map": "/feitjhin/fei-app/static/css/main.073c9b0a.css.map",
+    "main.ce94ef84.js.map": "/feitjhin/fei-app/static/js/main.ce94ef84.js.map",
+    "787.204ea73d.chunk.js.map": "/feitjhin/fei-app/static/js/787.204ea73d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ce94ef84.js"
+  ]
+}
